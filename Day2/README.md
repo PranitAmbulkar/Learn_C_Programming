@@ -1,4 +1,4 @@
-##Variables
+## Variables
 
 Variables represents some memory locations for a sppecific data type.
 variables stores data of its own type.i.e.integer variables can store only integer data.
@@ -10,23 +10,23 @@ int a;
 double b=2.3;(b is an identifier representing the variable and 2.3 is a value stored in this variable.
 char c='A';
 
-##Integer Constants
+## Integer Constants
 Integer constants can be written in decimal,hexadecimal and octal number system.
 ex.23,45,0,65,0101,0x41.etc.
 Using some suffix letter at an end of the integer constant can give some special meaning.
 For example.:- 12L (Long integer constant)
 360U,987u:-Represents unsigned integer constant.
 
-##Floating point constants
+## Floating point constants
 Floating point constants represents fractional numbers.
 They can be written in floating point format.(e.g.12.4,+0.0389,-2.76)or exponential format(e.g.124e+1,+3.89-2,-2.76e+0)
 Suffix f for the floating point constant will represent float constant.(ex.12.4f)
 
-##Character constants
+## Character constants
 character constant represents a single character.
 They are always enclosed in a single quotes.(' ')
 
-##Escape sequences
+## Escape sequences
 
 \n ------> new line             --------> Takes cursor on new line.
 \r-------> Carriage returen     --------> Takes cursor at the start of current line.
