@@ -9,19 +9,19 @@ C,C++,java are high level languages.
 Compiler is predefined program which convert the high level language into the binary language.
 Programmer provides interface by which end user can be easily interact the machines.
 
-**Identifiers**
+## Identifiers
 Identifiers are simply the names that are used to identify variables,functions,macros,etc.
 First character of identifier must be alphabet or underscore and no commas,blanks or special symbols.
 eg.m_hra,po_1235,create_node,basicsal,etc.
 
-**Keywords** 
+## Keywords
 Keywords are the words treated specially by the compiler with their standard meaning.
 The keywords cannot be used as variable names.
 There are 32 keywords in C Language.
 enum,void,const,volatile,signed,in,float,char,do,while,for,if,else,break,switch,case,default,etc.
 Few compilers also have reserved words like near,fear,huge.
 
-**Data Types**
+## Data Types
 C Program involves some computations.
 C Language is a typed language.
 char,int,float,double are primary data types. 
