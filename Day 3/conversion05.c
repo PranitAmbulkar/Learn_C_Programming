@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()//write a program to convert temperature in Celsius to Farenheit and vice versa
+int main()//write a program to convert temperature in Celsius to Farenheit.
 {
     float celsius,farenheit;
     printf("Enter the temperature in Celsius");
